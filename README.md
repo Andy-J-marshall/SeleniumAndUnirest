@@ -29,5 +29,5 @@ You will need to update the default.properties file with your BrowserStack usern
 
 ## Contributing
 * If you would like to contribute then create a new branch and submit a pull request.
-* Please try and follow the coding style of the existing code. In particular, any API tests should use a GSON to serialise and deserialise a POJO
+* Please try and follow the coding style of the existing code. In particular, any API tests should use a GSON to serialise and deserialise a POJO. Similarly, web tests should follow the page object model.
 * Try and limit the number of scenarios that test the web page; instead try and focus on the API tests for most of the validation. This will make the tests much quicker to run and more reliable. 

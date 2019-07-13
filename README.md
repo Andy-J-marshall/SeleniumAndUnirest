@@ -5,7 +5,8 @@ The following need to be installed:
 * Gauge installed: https://docs.gauge.org/latest/installation.html
 * Maven installed
 * Java 11
-* Ensure the web drivers are compatible version for your locally installed browsers: ./testautomation/src/test/resources/drivers
+
+Ensure the web drivers are compatible version for your locally installed browsers: ./testautomation/src/test/resources/drivers
 
 ## Running the tests
 Run all tests (default browser is Chrome):
